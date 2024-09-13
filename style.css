@@ -106,6 +106,12 @@ header, #content, footer {
   color:#FFFFFF; 
 }
 
+/* Logo image size */
+header img {
+  width: 200px; /* 设置图片宽度为200像素 */
+  height: auto; /* 高度自动调整，保持图片比例 */
+}
+
 /* Menu Links */
 ul.main-menu {
   margin: 0;
